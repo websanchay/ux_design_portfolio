@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .form-control {
   border-radius: 0;
   background: #f8f9fa;
-  border: 1px solid transparent;
+  border: 1px solid #084298;
   padding-top: 10px !important;
   padding-bottom: 10px !important;
 }
